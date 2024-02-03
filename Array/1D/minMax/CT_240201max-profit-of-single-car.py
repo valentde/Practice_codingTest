@@ -14,7 +14,7 @@ for i in range(year-1):
 print(maxProfit)
 
 # (2) Observation ????
-
+# TODO
 
 # [500 근처의 수 ](https://www.codetree.ai/missions/4/problems/near-500)
 arr = list(map(int, input().split()))
