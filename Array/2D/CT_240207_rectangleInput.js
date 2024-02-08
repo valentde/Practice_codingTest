@@ -1,5 +1,6 @@
-let inputSplited = require('fs').readFileSync(0).toString().trim().split(' ')
-let [n, m] = inputSplited.map(Number)
+// [두 개의 격자 비교하기 ](https://www.codetree.ai/missions/4/problems/compare-two-grid)
+let inputSplit = require('fs').readFileSync(0).toString().trim().split(' ')
+let [n, m] = inputSplit.map(Number)
 
 // 2차원 배열 Define
 let arr2d = Array(n).fill(0).map( () => Array(m).fill(0) )
