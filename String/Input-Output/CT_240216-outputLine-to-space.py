@@ -1,6 +1,6 @@
 # [공백을 기준으로 출력 ](https://www.codetree.ai/missions/4/problems/output-based-on-space)
 
-## 쥴단위 → 공백구분 후처리 (함수 대신 loop-if)
+## 줄 단위 → 공백구분 후처리 (함수 대신 loop-if)
 # if(str1[i] !== " ")
 # if (str[i] != ' ')
 # if (str[i] != ' ' & & str[i] != '\n')
