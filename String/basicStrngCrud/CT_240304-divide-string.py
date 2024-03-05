@@ -1,4 +1,4 @@
-
+# [문자열 나누기 ](https://www.codetree.ai/missions/4/problems/divide-string)
 
 #  list(input().split()) 와
 #       input().split() 만 있는거 차이점?
