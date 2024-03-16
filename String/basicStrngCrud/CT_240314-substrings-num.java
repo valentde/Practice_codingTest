@@ -3,7 +3,9 @@
 
  부분 문자여 개수 풀이법 3가지
 
- */import java.util.Scanner;
+ */
+//  [부분 문자열의 개수 ](https://www.codetree.ai/missions/4/problems/number-of-substrings)
+ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
