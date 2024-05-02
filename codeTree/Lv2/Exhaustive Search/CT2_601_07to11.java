@@ -1,5 +1,5 @@
-
-public class CT_240424_0601_07-11 {
+//2024-04-24
+public class CT2_601_07to11 {
 
 // [마라톤 중간에 택시타기 2 ](https://www.codetree.ai/missions/5/problems/taking-a-taxi-in-the-middle-of-the-marathon-2)
     public static void main(String[] args) {

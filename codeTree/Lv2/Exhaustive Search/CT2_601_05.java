@@ -1,10 +1,11 @@
+//2024-04-19
 // [체크판위에서 2 ](https://www.codetree.ai/missions/5/problems/on-the-checkboard-2)
 import java.util.Scanner;
 /*
     자바 String[] → char[]      변환
     자바 String[] → Cahracter[] 변환
 */
-public class CT_240419_on_the_checkboard2 {
+public class CT2_601_05 {
     static String[][] G;
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

@@ -1,8 +1,9 @@
+//2024-04-20
 // [일렬로 서있는 소 2 ](https://www.codetree.ai/missions/5/problems/cattle-in-a-rowing-up-2)
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Main {
+public class CT2_601_03 {
     static int[] A;
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

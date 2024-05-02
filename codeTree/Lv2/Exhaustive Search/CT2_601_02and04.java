@@ -1,6 +1,7 @@
+//2024-04-18
 import java.util.Scanner;
 
-public class CT_240418_placeOf13 {
+public class CT2_601_02and04 {
 
     public static void main(String[] args) {
 // [괄호 쌍 만들어주기 3 ](https://www.codetree.ai/missions/5/problems/pair-parentheses-3)

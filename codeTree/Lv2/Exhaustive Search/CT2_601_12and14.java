@@ -1,10 +1,11 @@
+//2024-04-29
 // [Carry 피하기 2 ](https://www.codetree.ai/missions/5/problems/escaping-carry-2)
 /*
     예제 [522, 6, 7311]는 isCarry 해당외는데 1개밖에 없어서 테케에서 막히 수 있음
 */
 import java.util.Arrays;
 
-public class CT_240429_0601_1214 {
+public class CT2_601_12and14 {
 
     public static void main(String[] args) {
         java.util.Scanner sc = new java.util.Scanner(System.in);
